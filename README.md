@@ -1,12 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF00FF&height=220&section=header&text=Ananya.exe&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <!-- ===================== ANANYA.EXE ===================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=F72585&center=true&vCenter=true&width=900&lines=Initializing+Ananya.exe...;AI+Engineer+Loading...;Building+The+Future...;Welcome+To+My+Digital+Universe" />
 </p>
 
-<h1 align="center">👾 Ananya.exe</h1>
+<h1 align="center">👾 AnyraX </h1>
 <h3 align="center">AI Engineer • Full Stack Developer • Problem Slayer</h3>
-
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1600&q=80" width="100%" />
+</p>
 ---
 
 ## 🎮 PLAYER STATS (LIVE)
