@@ -42,6 +42,9 @@ Backend           ███████░░░ 70%
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github,linux,html,css" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ananya065/Ananya065/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 🧭 ACTIVE QUESTS
