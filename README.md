@@ -11,7 +11,7 @@
 <h1 align="center">👾 AnyraX </h1>
 <h3 align="center">AI Engineer • Full Stack Developer • Problem Slayer</h3>
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=1600&q=80" width="100%" />
+  <img src="https://images.unsplash.com/photo-1598550476439-6847785fcea6?auto=format&fit=crop&w=1600&q=80" width="100%" />
 </p>
 ---
 
